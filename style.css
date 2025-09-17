@@ -1,0 +1,37 @@
+.container{
+ display: flex;
+ flex-direction: row;
+ height: 100vh;
+ border: 1px solid black;
+ margin: 40px;
+ text-align: start;
+}
+.FlexPractice{
+    background-color: aquamarine;
+ width: 500px;
+ text-align:start;
+}
+.Practice{
+background-color: greenyellow;
+height: 100px;
+width: 900px;
+text-align: start;
+}
+.article{
+    display: flex;
+    flex-direction: row;
+    text-align: start;
+}
+.one{
+    background-color: beige;
+height:394px;
+width: 700px;
+text-align: start;
+}
+.two{
+    background-color: darkgrey;
+    width: 200px;
+    text-align: start;
+}
+
+   
